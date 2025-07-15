@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: darkgreen;
+    text-align: center;
+    font-size: 45px;
+}
+
+h2{
+    color: darkolivegreen;
+    font-size: 37px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.welcome{
+    width: 50%;
+    text-align: justify;
+    padding: 10px;
+    margin: 10px;
+}
+
+.secundario{
+    width: 420px;
+    text-align: justify;
+    padding: 10px;
+    margin: 80px;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+    border-radius: 25px;
+    object-fit: cover;
+}
